@@ -17,10 +17,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=omerdemirell&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@0merdemirelll)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
----
 [![](https://visitcount.itsvg.in/api?id=omerdemirell&icon=2&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
