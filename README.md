@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# 💫 About Me:
+# 💫 Me:
 🔭 I'm interested in React, Solidity.<br>⚡ AI and likes and is interested in Blockchain philosophy.
 
 
