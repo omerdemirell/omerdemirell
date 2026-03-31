@@ -1,7 +1,7 @@
 
 
 #  If you want to know... (:
-🔭 I'm interested in React, Solidity.<br>⚡ AI and likes and is interested in Blockchain philosophy.
+🔭 AI and likes and is interested in Blockchain philosophy.
 
 
 ## 🌐 Socials:
